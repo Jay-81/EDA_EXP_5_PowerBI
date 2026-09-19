@@ -160,9 +160,10 @@ Create a single report page containing:
 Finally, identify at least three meaningful business insights from the analysis.
 
 **Expected Output**
+
+
+
 <img width="713" height="341" alt="image" src="https://github.com/user-attachments/assets/f3a14a2e-034f-47dc-baf3-20232b04b015" />
-
-
 
 
 
